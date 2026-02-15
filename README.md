@@ -39,3 +39,11 @@ Performance measured using accuracy, precision, recall, and F1-score.
 ## Ethical Considerations
 
 All data originates from publicly available reviews. Personal identifiers are excluded to preserve privacy. The dataset is shared strictly for academic and research purposes.
+
+---
+
+## Notes on Dataset Storage
+
+Due to file size limitations on GitHub, the full dataset is provided in a compressed `.zip` format.
+
+The original dataset exceeds GitHub’s direct upload size limit (25 MB per file). The compressed archive (~350 MB) is included to preserve the complete dataset while ensuring repository compatibility. Users should download and extract the archive locally before running preprocessing or modeling scripts.
